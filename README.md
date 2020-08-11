@@ -13,3 +13,5 @@ statistics about the results (records received, records successful, records fail
 
 ** input file must have similar data to the given .csv file for this problem - there is one piece of data (E) containing
 a comma that affects how the input had to be read. Without the comma, the entry class would need a slight change.
+
+the .jar file needs to in its respective location within this directory, for reference to perform the sqlite queries.
